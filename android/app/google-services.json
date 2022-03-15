@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "945682327048",
+    "firebase_url": "https://brightside-mentoring.firebaseio.com",
+    "project_id": "brightside-mentoring",
+    "storage_bucket": "brightside-mentoring.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945682327048:android:fda7959082bc7878",
+        "android_client_info": {
+          "package_name": "com.brightside.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "945682327048-rib50netoam9m5uq8anp46ge17ma1enf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFHhCRSGYs64n47DFTyL9AZNo-nmVKDN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "945682327048-rib50netoam9m5uq8anp46ge17ma1enf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "945682327048-ffqqe76c4b05oft5addac3vbb1dh69a2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.thebrightsidetrust.brightsidementoring",
+                "app_store_id": "1477386592"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
